@@ -25,6 +25,11 @@ Mixed Stepwise Selection Method:
 
 Mixed Stepwise Selection, ileri ve geri seçim tekniklerinin bir kombinasyonudur. İleri seçimin bir modifikasyonudur, böylece bir değişkenin eklendiği her adımdan sonra, modeldeki tüm aday değişkenler, önemlerinin belirtilen tolerans seviyesinin altına düşüp düşmediğini görmek için kontrol edilir. Önemsiz bir değişken bulunursa modelden kaldırılmaktadır.
 
+Basitçe, veri kümesindeki değişkenleri filtrelememiz ve en önemlilerini seçmemiz gerekir. Grafik, modelimizden iyi bir performans elde etmek için gereken adımları göstermektedir. 
+
+![image] (https://github.com/omarnj-lab/Mixed_StepWise_Selection_Method/blob/main/Image3_fqsh79.png)
+
+
 Bu nedenle, iki anlamlılık düzeyi gerektirir: biri değişken eklemek ve diğeri değişkenleri kaldırmak için. Prosedürün sonsuz döngüye girmemesi için değişkenlerin eklenmesi için kesme olasılığı, değişkenleri kaldırmak için kesme olasılığından daha düşük olmalıdır. 
 
 
