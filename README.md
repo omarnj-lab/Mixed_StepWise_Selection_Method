@@ -30,7 +30,7 @@ Bu nedenle, iki anlamlılık düzeyi gerektirir: biri değişken eklemek ve diğ
 
 Basitçe, veri kümesindeki değişkenleri filtrelememiz ve en önemlilerini seçmemiz gerekir. Grafik, modelimizden iyi bir performans elde etmek için gereken adımları göstermektedir. 
 
-![image](https://github.com/omarnj-lab/Mixed_StepWise_Selection_Method/blob/main/Image3_fqsh79.png)
+![image](https://github.com/omarnj-lab/Mixed_StepWise_Selection_Method/blob/main/Image2_ajaeo8.png)
 
 
 Peki bir veri seti örneğine Mixed Stepwise Selection uygulayalım .. Kod ve sonuçlar kod bölümünde tartışılacaktır. 
